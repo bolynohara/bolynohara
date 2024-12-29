@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-🇮🇩 Aldien Alcantara
-
-this my repository for fun zzz
+repository bolynohara
 
 <!-- 
 **bolynohara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
